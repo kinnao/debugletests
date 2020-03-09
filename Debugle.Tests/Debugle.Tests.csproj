@@ -71,6 +71,7 @@
     <Compile Include="PageObjects\ProjectsListPage.cs" />
     <Compile Include="ProjectsListPageTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
